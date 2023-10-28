@@ -46,4 +46,4 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 For questions or assistance, please contact us at [sujaypual0912@gmail.com](mailto:sujaypaul0912@gmail.com).
 
-Enjoy the Meals App!
+Enjoy the Meals App! 
