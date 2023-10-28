@@ -1,6 +1,6 @@
 # Meals App
 
-![Meals App](app_screenshot.png)
+![Meals App](screenshots/categories.png)
 
 The Meals App is a mobile application created with Flutter that simplifies meal planning and exploration. Discover, save, and organize your favorite recipes with ease.
 
