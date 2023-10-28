@@ -1,7 +1,6 @@
 # Meals App
 
-![Meals App](<img width="338" alt="categories" src="https://github.com/Sujay-Paul/meals-app/assets/91372791/1d39c283-0cc0-4133-8ceb-b8c357427a88">
-)
+!(<img width="338" alt="categories" src="https://github.com/Sujay-Paul/meals-app/assets/91372791/1d39c283-0cc0-4133-8ceb-b8c357427a88">)
 
 The Meals App is a mobile application created with Flutter that simplifies meal planning and exploration. Discover, save, and organize your favorite recipes with ease.
 
