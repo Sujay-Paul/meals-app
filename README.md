@@ -1,7 +1,5 @@
 # Meals App
 
-![Meals App](app_screenshot.png)
-
 The Meals App is a mobile application created with Flutter that simplifies meal planning and exploration. Discover, save, and organize your favorite recipes with ease.
 
 ## Features
@@ -38,7 +36,7 @@ To run this app locally, follow these steps:
 
 ## Contributing
 
-Contributions to this project are welcome. Please follow our [Contribution Guidelines](CONTRIBUTING.md) for details on how to contribute.
+Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or even pull requests to help improve the Expense Tracker App.
 
 ## License
 
@@ -46,6 +44,6 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ## Contact
 
-For questions or assistance, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For questions or assistance, please contact us at [sujaypual0912@gmail.com](mailto:sujaypaul0912@gmail.com).
 
 Enjoy the Meals App!
